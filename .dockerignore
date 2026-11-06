@@ -1,0 +1,7 @@
+node_modules
+dist
+.git
+.wrangler
+npm-debug.log
+yarn-error.log
+.DS_Store
