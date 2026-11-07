@@ -1,0 +1,32 @@
+[
+  {
+    "identifier": 2,
+    "estagio": "Aguardando Agendamento",
+    "status": true
+  },
+  {
+    "identifier": 5,
+    "estagio": "Aguardando Autorização Convênio",
+    "status": true
+  },
+  {
+    "identifier": 1,
+    "estagio": "Aguardando Faturamento",
+    "status": true
+  },
+  {
+    "identifier": 3,
+    "estagio": "string",
+    "status": false
+  },
+  {
+    "identifier": 4,
+    "estagio": "Glosado",
+    "status": true
+  },
+  {
+    "identifier": 5,
+    "estagio": "Aguardando Execução",
+    "status": true
+  }
+]

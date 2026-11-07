@@ -1,0 +1,1 @@
+export { AlterarSenha } from "./AlterarSenha";

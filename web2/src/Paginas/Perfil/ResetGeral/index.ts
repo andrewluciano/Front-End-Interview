@@ -1,0 +1,1 @@
+export { ResetGeral } from "./ResetGeral";

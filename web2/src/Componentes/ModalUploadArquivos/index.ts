@@ -1,0 +1,1 @@
+export { ModalUploadArquivos } from "./ModalUploadArquivos";

@@ -1,0 +1,1 @@
+export { Escolha } from "./Escolha";

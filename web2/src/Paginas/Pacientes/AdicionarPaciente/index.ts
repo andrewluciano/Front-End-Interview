@@ -1,0 +1,1 @@
+export { AdicionarPaciente } from "./AdicionarPaciente";

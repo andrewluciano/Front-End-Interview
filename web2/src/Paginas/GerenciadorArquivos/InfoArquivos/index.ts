@@ -1,0 +1,1 @@
+export { InfoArquivos } from "./InfoArquivos";

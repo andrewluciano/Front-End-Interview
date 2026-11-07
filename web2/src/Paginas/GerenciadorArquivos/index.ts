@@ -1,0 +1,1 @@
+export { GerenciadorArquivos } from "./GerenciadorArquivos";

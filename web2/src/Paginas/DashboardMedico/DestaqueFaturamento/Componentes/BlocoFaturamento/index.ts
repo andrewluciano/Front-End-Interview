@@ -1,0 +1,1 @@
+export { BlocoFaturamento } from "./BlocoFaturamento";

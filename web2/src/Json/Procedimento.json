@@ -1,0 +1,60 @@
+{
+  "Procedimentos": [
+    {
+      "CodProcedimento": 2122,
+      "DataProcedimento": "2025-05-21T13:28:06.419Z",
+      "StatusProcedimento": "Finalizada",
+      "Estagio": 2,
+      "Paciente": "Financiador 1",
+      "Procedimento": "Colecistectomia",
+      "Convenio": "Notre Dame Intermédica",
+      "Plano": "Plano Familia Lima Notre Multimedia",
+      "ValorEstimado": 1223411231.22,
+      "ValorRecebido": 2.22,
+      "PrazoProcedimentoEstagioLimite": 36,
+      "Progresso": 36
+    },
+    {
+      "CodProcedimento": 2122,
+      "DataProcedimento": "2025-05-21T13:28:06.419Z",
+      "StatusProcedimento": "Finalizada",
+      "Estagio": 2,
+      "Paciente": "Financiador 1",
+      "Procedimento": "Colecistectomia",
+      "Convenio": "Notre Dame Intermédica",
+      "Plano": "Plano Familia Lima Notre Multimedia",
+      "ValorEstimado": 1223411231.22,
+      "ValorRecebido": 2.22,
+      "PrazoProcedimentoEstagioLimite": 26,
+      "Progresso": 26
+    },
+    {
+      "CodProcedimento": 2122,
+      "DataProcedimento": "2025-05-21T13:28:06.419Z",
+      "StatusProcedimento": "Finalizada",
+      "Estagio": 2,
+      "Paciente": "Financiador 1",
+      "Procedimento": "Colecistectomia",
+      "Convenio": "Notre Dame Intermédica",
+      "Plano": "Plano Familia Lima Notre Multimedia",
+      "ValorEstimado": 1223411231.22,
+      "ValorRecebido": 2.22,
+      "PrazoProcedimentoEstagioLimite": 78,
+      "Progresso": 78
+    },
+    {
+      "CodProcedimento": 2122,
+      "DataProcedimento": "2025-05-21T13:28:06.419Z",
+      "StatusProcedimento": "Finalizada",
+      "Estagio": 2,
+      "Paciente": "Financiador 1",
+      "Procedimento": "Colecistectomia",
+      "Convenio": "Notre Dame Intermédica",
+      "Plano": "Plano Familia Lima Notre Multimedia",
+      "ValorEstimado": 1223411231.22,
+      "ValorRecebido": 2.22,
+      "PrazoProcedimentoEstagioLimite": 65,
+      "Progresso": 65
+    }
+  ]
+}

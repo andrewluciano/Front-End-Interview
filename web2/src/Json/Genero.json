@@ -1,0 +1,18 @@
+[
+  {
+    "Genero": "Masculino",
+    "ativo": true
+  },
+  {
+    "Genero": "Feminino",
+    "ativo": true
+  },
+  {
+    "Genero": "Trans",
+    "ativo": true
+  },
+  {
+    "Genero": "Prefiro Não Informar",
+    "ativo": true
+  }
+]

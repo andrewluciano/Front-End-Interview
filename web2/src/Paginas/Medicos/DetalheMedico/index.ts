@@ -1,0 +1,1 @@
+export { DetalheMedico } from "./DetalheMedico";

@@ -1,0 +1,1 @@
+export { CreditosCabecalho } from "./CreditosCabecalho";

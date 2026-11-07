@@ -1,0 +1,1 @@
+export { ExcluirConsulta } from "./ExcluirConsulta";

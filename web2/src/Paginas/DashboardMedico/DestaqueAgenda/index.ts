@@ -1,0 +1,1 @@
+export { DestaqueAgenda } from "./DestaqueAgenda";

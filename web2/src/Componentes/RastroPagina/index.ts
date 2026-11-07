@@ -1,0 +1,1 @@
+export { RastroPagina } from "./RastroPagina";

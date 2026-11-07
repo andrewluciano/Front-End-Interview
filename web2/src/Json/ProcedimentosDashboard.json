@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Solicitadas",
+    "type": "ProcedimentoAgenda",
+    "value": 6
+  },
+  {
+    "label": "Autorizadas",
+    "type": "ProcedimentoAgenda",
+    "value": 6
+  },
+  {
+    "label": "Pendentes",
+    "type": "ProcedimentoAgenda",
+    "value": 6
+  },
+  {
+    "label": "Agendadas",
+    "type": "ProcedimentoAgenda",
+    "value": 6
+  }
+]

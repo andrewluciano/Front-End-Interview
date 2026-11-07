@@ -1,0 +1,1 @@
+export { MenuCabec } from "./MenuCabec";

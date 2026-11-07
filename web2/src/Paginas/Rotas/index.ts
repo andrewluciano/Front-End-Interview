@@ -1,0 +1,1 @@
+export { Rotas } from "./Rotas";

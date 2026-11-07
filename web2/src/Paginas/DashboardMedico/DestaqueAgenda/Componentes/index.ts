@@ -1,0 +1,1 @@
+export { ItemDestaqueAgenda } from "./ItemDestaqueAgenda";

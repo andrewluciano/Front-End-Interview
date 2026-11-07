@@ -1,0 +1,4 @@
+window.config = {
+  API_BASE_URL: '__API_BASE_URL__',
+  API_BASE_URL_NOVO: '__API_BASE_URL_NOVO__,
+};

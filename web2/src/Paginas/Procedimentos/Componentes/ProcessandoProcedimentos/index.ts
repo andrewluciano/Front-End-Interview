@@ -1,0 +1,1 @@
+export { ProcessandoProcedimentos } from "./ProcessandoProcedimentos";

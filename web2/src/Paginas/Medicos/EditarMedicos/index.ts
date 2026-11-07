@@ -1,0 +1,1 @@
+export { EditarMedicos } from "./EditarMedicos";

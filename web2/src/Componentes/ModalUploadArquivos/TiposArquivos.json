@@ -1,0 +1,64 @@
+{
+  "documentos_faturamento_medico": [
+    {
+      "label": "Guia de Consulta",
+      "code": "GUIA_CONSULTA",
+      "description": "Documento utilizado para registrar a realização de uma consulta médica eletiva (agendada) ou de pronto atendimento. É a porta de entrada mais comum do beneficiário no sistema."
+    },
+    {
+      "label": "Guia SP/SADT",
+      "code": "GUIA_SP_SADT",
+      "description": "É a guia \"coringa\". Utilizada para autorizar e registrar exames (laboratoriais, imagem), terapias (fisioterapia, psicologia) e pequenos procedimentos cirúrgicos que não exigem internação hospitalar."
+    },
+    {
+      "label": "Guia de Honorário Individual",
+      "code": "GUIA_HONORARIO_INDIVIDUAL",
+      "description": "Utilizada para faturar os serviços da equipe médica (cirurgiões, anestesistas, auxiliares) de forma separada da conta do hospital. É comum quando o médico não é contratado direto do hospital, mas credenciado à operadora."
+    },
+    {
+      "label": "Guia Odontológica",
+      "code": "GUIA_ODONTOLOGICA",
+      "description": "Específica para o registro de tratamentos dentários. Segue uma lógica similar à SP/SADT, mas com terminologias e procedimentos exclusivos da tabela odontológica."
+    },
+    {
+      "label": "Recurso de Glosa",
+      "code": "RECURSO_GLOSA",
+      "description": "Não é uma guia de atendimento, mas um documento administrativo/financeiro. É enviado pelo prestador para contestar o não pagamento (glosa) de um item ou conta, apresentando justificativas e novas evidências para tentar reverter a negativa."
+    },
+    {
+      "label": "Extrato de Produação",
+      "code": "EXTRATO_AGENDAMENTO",
+      "description": "Relatório emitido pela Clinica detalhando o que foi agendado em um determinado período. É essencial para o controle de agendamentos e para a comunicação com o paciente."
+    },
+    {
+      "label": "Extrato/Demonstrativo de Pagamento",
+      "code": "EXTRATO_PAGAMENTO",
+      "description": "Relatório emitido pela operadora detalhando o que foi pago em um determinado lote. Essencial para o prestador fazer a conciliação financeira (baixa de contas)."
+    },
+    {
+      "label": "Nota Fiscal (NF-e/NFS-e)",
+      "code": "NOTA_FISCAL",
+      "description": "Documento fiscal obrigatório que oficializa a cobrança do serviço prestado. Geralmente é atrelada a um lote de guias enviadas."
+    },
+    {
+      "label": "Guia de Solicitação de OPME",
+      "code": "GUIA_OPME",
+      "description": "Focada em materiais de alto custo (ex: marca-passos, pinos, stents). Devido ao alto valor, muitas operadoras exigem uma guia ou anexo específico para pré-autorização destes itens antes da cirurgia."
+    },
+    {
+      "label": "Protocolo de Envio (Lote TISS)",
+      "code": "PROTOCOLO_ENVIO",
+      "description": "O comprovante de que um conjunto de guias (físicas ou arquivo XML) foi entregue à operadora. É a segurança do prestador de que o prazo de pagamento começou a correr."
+    },
+    {
+      "label": "Arquivo XML (Padrão TISS)",
+      "code": "ARQUIVO_XML_TISS",
+      "description": "É a versão digital de todas as guias acima. No mundo de dados e sistemas, o \"papel\" é apenas a representação deste arquivo estruturado que trafega entre os sistemas."
+    },
+    {
+      "label": "Anexo de Quimioterapia / Radioterapia",
+      "code": "ANEXO_QUIMIO_RADIO",
+      "description": "Complementos à guia SP/SADT que detalham ciclos, drogas e dosagens específicas para tratamentos oncológicos, exigindo auditoria técnica especializada."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+export { GraficoRequisicoesMes } from "./GraficoRequisicoesMes";

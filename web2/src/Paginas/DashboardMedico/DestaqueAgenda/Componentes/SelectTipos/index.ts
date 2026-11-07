@@ -1,0 +1,1 @@
+export { SelectTipos } from "./SelectTipos";

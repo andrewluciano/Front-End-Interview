@@ -1,0 +1,1 @@
+export { ExcluirProcedimento } from "./ExcluirProcedimento";

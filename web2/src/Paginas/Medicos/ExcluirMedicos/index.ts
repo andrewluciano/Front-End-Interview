@@ -1,0 +1,1 @@
+export { ExcluirMedicos } from "./ExcluirMedicos";

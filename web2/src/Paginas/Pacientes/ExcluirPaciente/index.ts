@@ -1,0 +1,1 @@
+export { ExcluirPaciente } from "./ExcluirPaciente";

@@ -1,0 +1,114 @@
+{
+  "Operacoes": [
+    {
+      "CodOperacao": 2122,
+      "DataOperacao": "2025-05-21T13:28:06.419Z",
+      "StatusOperacao": "Finalizada",
+      "Financiador": "Financiador 1",
+      "ValorBruto": 56000,
+      "NumeroTitulos": 2,
+      "Comprador": "Comprador 1",
+      "Fornecedor": "Fornecedor 1",
+      "Bordero": 1126332
+    },
+    {
+      "CodOperacao": 2123,
+      "DataOperacao": "2025-06-20T13:28:06.419Z",
+      "StatusOperacao": "Aberta",
+      "Financiador": "Financiador 1",
+      "ValorBruto": 36000,
+      "NumeroTitulos": 2,
+      "Comprador": "Comprador 1",
+      "Fornecedor": "Fornecedor 2",
+      "Bordero": 1126388
+    },
+    {
+      "CodOperacao": 2124,
+      "DataOperacao": "2025-06-21T13:28:06.419Z",
+      "StatusOperacao": "Aberta",
+      "Financiador": "Financiador 1",
+      "ValorBruto": 150000,
+      "NumeroTitulos": 2,
+      "Comprador": "Comprador 1",
+      "Fornecedor": "Fornecedor 3",
+      "Bordero": 1126344
+    },
+    {
+      "CodOperacao": 2123,
+      "DataOperacao": "2025-06-20T13:28:06.419Z",
+      "StatusOperacao": "Aberta",
+      "Financiador": "Financiador 1",
+      "ValorBruto": 36000,
+      "NumeroTitulos": 2,
+      "Comprador": "Comprador 1",
+      "Fornecedor": "Fornecedor 2",
+      "Bordero": 1126388
+    },
+    {
+      "CodOperacao": 2124,
+      "DataOperacao": "2025-06-21T13:28:06.419Z",
+      "StatusOperacao": "Aberta",
+      "Financiador": "Financiador 1",
+      "ValorBruto": 150000,
+      "NumeroTitulos": 2,
+      "Comprador": "Comprador 1",
+      "Fornecedor": "Fornecedor 3",
+      "Bordero": 1126344
+    },
+    {
+      "CodOperacao": 2123,
+      "DataOperacao": "2025-06-20T13:28:06.419Z",
+      "StatusOperacao": "Aberta",
+      "Financiador": "Financiador 1",
+      "ValorBruto": 36000,
+      "NumeroTitulos": 2,
+      "Comprador": "Comprador 1",
+      "Fornecedor": "Fornecedor 2",
+      "Bordero": 1126388
+    },
+    {
+      "CodOperacao": 2124,
+      "DataOperacao": "2025-06-21T13:28:06.419Z",
+      "StatusOperacao": "Aberta",
+      "Financiador": "Financiador 1",
+      "ValorBruto": 150000,
+      "NumeroTitulos": 2,
+      "Comprador": "Comprador 1",
+      "Fornecedor": "Fornecedor 3",
+      "Bordero": 1126344
+    },
+    {
+      "CodOperacao": 2123,
+      "DataOperacao": "2025-06-20T13:28:06.419Z",
+      "StatusOperacao": "Aberta",
+      "Financiador": "Financiador 1",
+      "ValorBruto": 36000,
+      "NumeroTitulos": 2,
+      "Comprador": "Comprador 1",
+      "Fornecedor": "Fornecedor 2",
+      "Bordero": 1126388
+    },
+    {
+      "CodOperacao": 2124,
+      "DataOperacao": "2025-06-21T13:28:06.419Z",
+      "StatusOperacao": "Aberta",
+      "Financiador": "Financiador 1",
+      "ValorBruto": 150000,
+      "NumeroTitulos": 2,
+      "Comprador": "Comprador 1",
+      "Fornecedor": "Fornecedor 3",
+      "Bordero": 1126344
+    },
+    {
+      "CodOperacao": 2124,
+      "DataOperacao": "2025-06-21T13:28:06.419Z",
+      "StatusOperacao": "Aberta",
+      "Financiador": "Financiador 1",
+      "ValorBruto": 150000,
+      "NumeroTitulos": 2,
+      "Comprador": "Comprador 1",
+      "Fornecedor": "Fornecedor 3",
+      "Bordero": 1126344
+    }
+  ]
+}

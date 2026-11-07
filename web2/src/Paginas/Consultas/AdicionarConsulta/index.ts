@@ -1,0 +1,1 @@
+export { AdicionarConsulta } from "./AdicionarConsulta";

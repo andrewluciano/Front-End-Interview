@@ -1,0 +1,1 @@
+export { Procedimento } from "./Procedimento";

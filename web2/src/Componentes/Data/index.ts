@@ -1,0 +1,1 @@
+export { DataSimples } from "./Data";
